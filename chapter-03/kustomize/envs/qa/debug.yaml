@@ -9,4 +9,4 @@ spec:
       - name: sample-app     #B
         env:                 #C
         - name: DEBUG
-          value: "true"
+          value: "false"
